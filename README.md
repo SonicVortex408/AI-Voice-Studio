@@ -285,16 +285,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Modal** → https://bit.ly/4j1oyWJ
 - **Polar** → https://polar.sh
 - **Better Auth** → https://better-auth.com
-- **GitHub Repo** → https://github.com/sahandghavidel/ai-voice-studio-app
 - **Eraser Diagram** → https://app.eraser.io/workspace/kLqXSZ6CIxZrJdeYMRt2?origin=share
 
-## 🙏 Acknowledgments
-
-- Built with ❤️ by [Sahand Ghavidel](https://github.com/sahandghavidel)
-- Special thanks to the open-source community
-
----
-
-If you find this project helpful, please give it a ⭐ on GitHub!
-
-#nextjs16 #python #ai #saas #fullstackdevelopment #aws
