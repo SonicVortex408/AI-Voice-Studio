@@ -20,7 +20,6 @@ const prisma = new PrismaClient();
 export const auth = betterAuth({
   trustedOrigins: [
     "http://localhost:3000",
-    "https://ai-voice-studio-project.vercel.app/"
   ],
 
   database: prismaAdapter(prisma, {
